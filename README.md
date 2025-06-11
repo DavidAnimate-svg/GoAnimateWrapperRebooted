@@ -1,3 +1,4 @@
-# Welcome To GoAnimate For Schools Remastered Cloudfront server!
+Codename
+# GoAnimate Wrapper Rebooted
 
-See stuff happening!
+a fork from GA4SR.
